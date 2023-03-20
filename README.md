@@ -5,6 +5,8 @@
 
 <div align="center">
   <img src="/github-metrics.svg"></img>
+  
+  <img src="https://komarev.com/ghpvc/?username=n-tdi&color=green"></img>
 </div>
 
 <!-- May use later.. idk -->

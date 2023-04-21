@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 129.9 kB Used in GitHub's Storage 
+> 📦 130.3 kB Used in GitHub's Storage 
  > 
-> 🏆 480 Contributions in the Year 2023
+> 🏆 481 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -56,16 +56,21 @@ Sunday                   535 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     7 mins              ██████████████████░░░░░░░   71.35 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+CSS                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+borderify                5 mins              █████████████░░░░░░░░░░░░   51.04 % 
+beastify                 5 mins              ████████████░░░░░░░░░░░░░   48.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -85,5 +90,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2023 18:37:27 UTC
+ Last Updated on 21/04/2023 18:37:55 UTC
 <!--END_SECTION:waka-->

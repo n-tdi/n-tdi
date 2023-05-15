@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 132.0 kB Used in GitHub's Storage 
+> 📦 131.5 kB Used in GitHub's Storage 
  > 
 > 🏆 542 Contributions in the Year 2023
  > 
@@ -92,5 +92,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2023 18:36:41 UTC
+ Last Updated on 15/05/2023 18:36:38 UTC
 <!--END_SECTION:waka-->

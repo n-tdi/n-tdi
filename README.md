@@ -13,13 +13,13 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 132.9 kB Used in GitHub's Storage 
+> 📦 132.1 kB Used in GitHub's Storage 
  > 
 > 🏆 603 Contributions in the Year 2023
  > 
@@ -94,5 +94,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2023 18:36:59 UTC
+ Last Updated on 03/06/2023 18:37:40 UTC
 <!--END_SECTION:waka-->

@@ -13,15 +13,15 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 133.5 kB Used in GitHub's Storage 
+> 📦 132.9 kB Used in GitHub's Storage 
  > 
-> 🏆 659 Contributions in the Year 2023
+> 🏆 663 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -56,20 +56,20 @@ Sunday                   517 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     6 hrs 49 mins       ████████████████████████░   97.42 % 
-SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Java                     7 hrs 24 mins       ████████████████████████░   97.57 % 
+SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-IntelliJ                 7 hrs               █████████████████████████   100.00 % 
+IntelliJ                 7 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tazpvp-Rebron            5 hrs 40 mins       ████████████████████░░░░░   81.03 % 
-Postglam                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-NR-Core                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Tazpvp-Rebron            6 hrs 16 mins       █████████████████████░░░░   82.51 % 
+Postglam                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+NR-Core                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-Mac                      7 hrs               █████████████████████████   100.00 % 
+Mac                      7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -89,5 +89,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2023 18:37:10 UTC
+ Last Updated on 15/06/2023 18:37:37 UTC
 <!--END_SECTION:waka-->

@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 150.9 kB Used in GitHub's Storage 
+> 📦 151.0 kB Used in GitHub's Storage 
  > 
 > 🏆 906 Contributions in the Year 2023
  > 
@@ -71,8 +71,8 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     83 repos            █████████████░░░░░░░░░░░░   51.55 % 
-JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Java                     82 repos            █████████████░░░░░░░░░░░░   50.93 % 
+JavaScript               13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 Svelte                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 Lua                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
@@ -85,5 +85,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2023 18:36:46 UTC
+ Last Updated on 05/09/2023 18:37:20 UTC
 <!--END_SECTION:waka-->

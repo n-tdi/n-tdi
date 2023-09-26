@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 151.9 kB Used in GitHub's Storage 
+> 📦 151.2 kB Used in GitHub's Storage 
  > 
 > 🏆 987 Contributions in the Year 2023
  > 
@@ -56,16 +56,16 @@ Sunday                   449 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Text                     15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AP Comp Sci              15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -85,5 +85,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2023 18:38:44 UTC
+ Last Updated on 26/09/2023 18:38:28 UTC
 <!--END_SECTION:waka-->

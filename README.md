@@ -13,13 +13,15 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 179.5 kB Used in GitHub's Storage 
+> 📦 178.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,109 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -30,9 +32,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                664 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-🌆 Daytime                1048 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌃 Evening                1271 commits        ██████████░░░░░░░░░░░░░░░   41.74 % 
+🌞 Morning                665 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+🌆 Daytime                1048 commits        █████████░░░░░░░░░░░░░░░░   34.41 % 
+🌃 Evening                1271 commits        ██████████░░░░░░░░░░░░░░░   41.73 % 
 🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -40,11 +42,11 @@
 ```text
 Monday                   430 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Tuesday                  405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Wednesday                277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Wednesday                277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Thursday                 363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Friday                   425 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Friday                   425 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Saturday                 674 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Sunday                   471 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Sunday                   472 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 ```
 
 
@@ -89,5 +91,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2023 18:37:12 UTC
+ Last Updated on 22/10/2023 18:36:48 UTC
 <!--END_SECTION:waka-->

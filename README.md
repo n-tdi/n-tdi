@@ -13,13 +13,13 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 179.5 kB Used in GitHub's Storage 
+> 📦 180.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,117 Contributions in the Year 2023
  > 
@@ -56,21 +56,21 @@ Sunday                   472 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     1 hr 59 mins        ██████████████████████░░░   88.50 % 
-Groovy                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Mixin Configuration      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Gradle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Java                     1 hr 45 mins        ██████████████████████░░░   87.14 % 
+Groovy                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Mixin Configuration      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Gradle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-IntelliJ                 2 hrs 15 mins       █████████████████████████   100.00 % 
+IntelliJ                 2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-breadclient-template-1.201 hr 44 mins        ███████████████████░░░░░░   77.34 % 
-AP-CSP-Create-TASK       30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+breadclient-template-1.201 hr 30 mins        ███████████████████░░░░░░   74.66 % 
+AP-CSP-Create-TASK       30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,5 +90,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2023 18:37:34 UTC
+ Last Updated on 27/10/2023 18:37:02 UTC
 <!--END_SECTION:waka-->

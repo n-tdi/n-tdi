@@ -13,13 +13,13 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 179.9 kB Used in GitHub's Storage 
+> 📦 180.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,115 Contributions in the Year 2023
  > 
@@ -56,16 +56,19 @@ Sunday                   473 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+Java                     7 mins              ███████████████████████░░   92.50 % 
+XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+IntelliJ                 8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AP-CSP-Create-TASK       0 secs              █████████████████████████   100.00 % 
+BogoSort                 8 mins              █████████████████████████   100.00 % 
+AP-CSP-Create-TASK       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -85,5 +88,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2023 18:38:24 UTC
+ Last Updated on 10/11/2023 18:37:39 UTC
 <!--END_SECTION:waka-->

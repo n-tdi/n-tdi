@@ -13,13 +13,13 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 179.6 kB Used in GitHub's Storage 
+> 📦 180.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1,115 Contributions in the Year 2023
  > 
@@ -56,23 +56,18 @@ Sunday                   473 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-GitIgnore file           3 mins              ██████████░░░░░░░░░░░░░░░   40.58 % 
-IDEA_MODULE              2 mins              ████████░░░░░░░░░░░░░░░░░   32.24 % 
-Clojure                  2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     0 secs              █████████████████████████   99.60 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-IntelliJ                 8 mins              █████████████████████████   100.00 % 
+IntelliJ                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ClojureLearning          5 mins              ██████████████░░░░░░░░░░░   57.37 % 
-Unknown Project          3 mins              ██████████░░░░░░░░░░░░░░░   40.58 % 
-AxialToPolar             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-AP-CSP-Create-TASK       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+AxialToPolar             0 secs              █████████████████░░░░░░░░   69.74 % 
+AP-CSP-Create-TASK       0 secs              ████████░░░░░░░░░░░░░░░░░   30.26 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -92,5 +87,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2023 18:40:19 UTC
+ Last Updated on 22/11/2023 18:38:31 UTC
 <!--END_SECTION:waka-->

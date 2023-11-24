@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 179.6 kB Used in GitHub's Storage 
+> 📦 180.3 kB Used in GitHub's Storage 
  > 
 > 🏆 1,115 Contributions in the Year 2023
  > 
@@ -56,18 +56,16 @@ Sunday                   473 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   99.43 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AxialToPolar             0 secs              █████████████████████████   98.62 % 
-AP-CSP-Create-TASK       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -87,5 +85,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 18:37:40 UTC
+ Last Updated on 24/11/2023 18:37:28 UTC
 <!--END_SECTION:waka-->

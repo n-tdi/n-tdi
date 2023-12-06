@@ -13,13 +13,11 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 180.2 kB Used in GitHub's Storage 
+> 📦 179.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,131 Contributions in the Year 2023
  > 
@@ -29,45 +27,6 @@
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                723 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-🌆 Daytime                1061 commits        ████████░░░░░░░░░░░░░░░░░   33.83 % 
-🌃 Evening                1286 commits        ██████████░░░░░░░░░░░░░░░   41.01 % 
-🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   475 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Tuesday                  420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Wednesday                279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Thursday                 363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Friday                   425 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Saturday                 681 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Sunday                   493 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -85,5 +44,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:38:20 UTC
+ Last Updated on 06/12/2023 18:39:45 UTC
 <!--END_SECTION:waka-->

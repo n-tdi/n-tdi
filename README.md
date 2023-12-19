@@ -13,13 +13,13 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 197.0 kB Used in GitHub's Storage 
+> 📦 197.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,155 Contributions in the Year 2023
  > 
@@ -56,20 +56,21 @@ Sunday                   469 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     4 hrs 1 min         ████████████████████████░   97.27 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Java                     7 hrs 2 mins        █████████████████████████   98.22 % 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ                 4 hrs 8 mins        █████████████████████████   100.00 % 
+IntelliJ                 7 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tazpvp                   4 hrs 5 mins        █████████████████████████   98.76 % 
-NR-Core                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+tazpvp                   7 hrs 5 mins        █████████████████████████   98.75 % 
+NR-Core                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      4 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -89,5 +90,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2023 18:40:00 UTC
+ Last Updated on 19/12/2023 18:36:45 UTC
 <!--END_SECTION:waka-->

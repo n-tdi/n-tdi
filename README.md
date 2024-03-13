@@ -19,7 +19,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 188.4 kB Used in GitHub's Storage 
+> 📦 189.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 37 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +85,5 @@ Rust                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2024 18:36:51 UTC
+ Last Updated on 13/03/2024 18:36:49 UTC
 <!--END_SECTION:waka-->

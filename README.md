@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 189.3 kB Used in GitHub's Storage 
+> 📦 188.8 kB Used in GitHub's Storage 
  > 
 > 🏆 38 Contributions in the Year 2024
  > 
@@ -71,11 +71,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     90 repos            █████████████░░░░░░░░░░░░   52.94 % 
-HTML                     17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-C++                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Rust                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Java                     89 repos            █████████████░░░░░░░░░░░░   52.66 % 
+HTML                     17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+JavaScript               15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+C++                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Rust                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 
 
@@ -85,5 +85,5 @@ Rust                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2024 18:37:01 UTC
+ Last Updated on 20/03/2024 18:36:59 UTC
 <!--END_SECTION:waka-->

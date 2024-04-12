@@ -13,11 +13,13 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 189.4 kB Used in GitHub's Storage 
+> 📦 189.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,5 +83,5 @@ Rust                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2024 18:35:49 UTC
+ Last Updated on 12/04/2024 18:36:25 UTC
 <!--END_SECTION:waka-->

@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 189.8 kB Used in GitHub's Storage 
+> 📦 189.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +83,5 @@ Rust                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2024 18:36:23 UTC
+ Last Updated on 19/04/2024 18:35:51 UTC
 <!--END_SECTION:waka-->

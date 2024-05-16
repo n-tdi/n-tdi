@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 198.9 kB Used in GitHub's Storage 
+> 📦 198.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +83,5 @@ Rust                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2024 18:38:10 UTC
+ Last Updated on 16/05/2024 18:38:12 UTC
 <!--END_SECTION:waka-->

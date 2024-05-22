@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4064 Commits
+                            4065 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -114,14 +114,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.82556151265194" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="203.82556151265194" y="0" width="184.831389891286" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="388.65695140393797" y="0" width="43.86511163969437" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="432.52206304363233" y="0" width="19.719058660782867" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.2411217044152" y="0" width="3.658194733979646" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="455.89931643839486" y="0" width="1.4478566377253326" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.34717307612016" y="0" width="1.3731078679524047" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="458.72028094407256" y="0" width="1.2797190559274385" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.82008222895885" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="203.82008222895885" y="0" width="184.8353432272495" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="388.6554254562084" y="0" width="43.8660498651954" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="432.5214753214038" y="0" width="19.719480429313723" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.2409557507175" y="0" width="3.658272978658821" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="455.8992287293763" y="0" width="1.447887605753649" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.3471163351299" y="0" width="1.3731372371884383" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="458.72025357231837" y="0" width="1.2797464276816082" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1343,7 +1343,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 72.9k out of 134m users</span>
+                                    <span class="gh">ranked 72.9k out of 137m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">165</div>
                                     </div>
@@ -1659,7 +1659,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 900k out of 134m users</span>
+                                    <span class="gh">ranked 900k out of 137m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -1700,7 +1700,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 762k out of 202m repositories</span>
+                                    <span class="gh">ranked 762k out of 193m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">37</div>
                                     </div>
@@ -1785,7 +1785,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.50m out of 202m repositories</span>
+                                    <span class="gh">ranked 3.50m out of 193m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>

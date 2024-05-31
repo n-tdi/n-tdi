@@ -19,9 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 199.8 kB Used in GitHub's Storage 
- > 
-> 🏆 90 Contributions in the Year 2024
+> 📦 199.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,5 +83,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 18:41:15 UTC
+ Last Updated on 31/05/2024 18:38:33 UTC
 <!--END_SECTION:waka-->

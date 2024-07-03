@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 199.5 kB Used in GitHub's Storage 
+> 📦 200.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +83,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2024 18:40:37 UTC
+ Last Updated on 03/07/2024 18:38:48 UTC
 <!--END_SECTION:waka-->

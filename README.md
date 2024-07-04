@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 200.0 kB Used in GitHub's Storage 
+> 📦 199.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 132 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -69,11 +71,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-HTML                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-JavaScript               17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Makefile                 2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+HTML                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+JavaScript               17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Makefile                 2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
@@ -83,5 +85,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2024 18:38:48 UTC
+ Last Updated on 04/07/2024 18:39:57 UTC
 <!--END_SECTION:waka-->

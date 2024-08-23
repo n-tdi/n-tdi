@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 201.9 kB Used in GitHub's Storage 
+> 📦 201.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +83,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 18:42:52 UTC
+ Last Updated on 23/08/2024 18:42:07 UTC
 <!--END_SECTION:waka-->

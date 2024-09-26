@@ -21,8 +21,6 @@
 
 > 📦 202.0 kB Used in GitHub's Storage 
  > 
-> 🏆 267 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 159 Public Repositories 
@@ -85,5 +83,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2024 18:45:39 UTC
+ Last Updated on 26/09/2024 18:45:18 UTC
 <!--END_SECTION:waka-->

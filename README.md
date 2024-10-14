@@ -19,7 +19,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 202.6 kB Used in GitHub's Storage 
+> 📦 203.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 273 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +85,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2024 18:43:02 UTC
+ Last Updated on 14/10/2024 18:45:51 UTC
 <!--END_SECTION:waka-->

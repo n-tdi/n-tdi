@@ -19,9 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 286.7 kB Used in GitHub's Storage 
- > 
-> 🏆 390 Contributions in the Year 2024
+> 📦 286.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,5 +83,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2024 18:42:54 UTC
+ Last Updated on 22/12/2024 18:42:23 UTC
 <!--END_SECTION:waka-->

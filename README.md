@@ -13,9 +13,11 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 290.1 kB Used in GitHub's Storage 
+> 📦 290.3 kB Used in GitHub's Storage 
  > 
 > 🏆 197 Contributions in the Year 2025
  > 
@@ -67,10 +69,10 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     83 repos            ███████████░░░░░░░░░░░░░░   45.11 % 
-HTML                     19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-C++                      12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Makefile                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Java                     83 repos            ███████████░░░░░░░░░░░░░░   45.36 % 
+HTML                     19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+C++                      12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Makefile                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
@@ -81,5 +83,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:45:12 UTC
+ Last Updated on 31/08/2025 18:46:02 UTC
 <!--END_SECTION:waka-->

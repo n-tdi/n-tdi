@@ -17,9 +17,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 289.9 kB Used in GitHub's Storage 
- > 
-> 🏆 204 Contributions in the Year 2025
+> 📦 289.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +81,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2025 18:43:36 UTC
+ Last Updated on 15/09/2025 18:49:28 UTC
 <!--END_SECTION:waka-->

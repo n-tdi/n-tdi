@@ -13,11 +13,11 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 289.3 kB Used in GitHub's Storage 
+> 📦 289.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 204 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -25,45 +25,6 @@
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                803 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-🌆 Daytime                1213 commits        ████████░░░░░░░░░░░░░░░░░   33.07 % 
-🌃 Evening                1552 commits        ███████████░░░░░░░░░░░░░░   42.31 % 
-🌙 Night                  100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   547 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Tuesday                  571 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Thursday                 487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Friday                   501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Saturday                 765 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Sunday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -81,5 +42,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 18:49:28 UTC
+ Last Updated on 16/09/2025 18:49:20 UTC
 <!--END_SECTION:waka-->

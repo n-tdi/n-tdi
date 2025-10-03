@@ -13,8 +13,6 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 290.2 kB Used in GitHub's Storage 
@@ -27,45 +25,6 @@
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                803 commits         █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-🌆 Daytime                1216 commits        ████████░░░░░░░░░░░░░░░░░   33.12 % 
-🌃 Evening                1552 commits        ███████████░░░░░░░░░░░░░░   42.28 % 
-🌙 Night                  100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   547 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  571 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Thursday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Friday                   503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Saturday                 765 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Sunday                   482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -83,5 +42,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 18:47:14 UTC
+ Last Updated on 03/10/2025 18:48:02 UTC
 <!--END_SECTION:waka-->

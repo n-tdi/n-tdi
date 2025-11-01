@@ -13,11 +13,9 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 290.1 kB Used in GitHub's Storage 
+> 📦 289.5 kB Used in GitHub's Storage 
  > 
 > 🏆 217 Contributions in the Year 2025
  > 
@@ -83,5 +81,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 18:52:04 UTC
+ Last Updated on 01/11/2025 18:45:30 UTC
 <!--END_SECTION:waka-->

@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 289.6 kB Used in GitHub's Storage 
+> 📦 289.7 kB Used in GitHub's Storage 
  > 
 > 🏆 222 Contributions in the Year 2025
  > 
@@ -25,45 +25,6 @@
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                803 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-🌆 Daytime                1230 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
-🌃 Evening                1556 commits        ███████████░░░░░░░░░░░░░░   42.18 % 
-🌙 Night                  100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   550 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Tuesday                  574 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Wednesday                319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Thursday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Friday                   510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Saturday                 768 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Sunday                   482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -81,5 +42,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 18:45:04 UTC
+ Last Updated on 03/11/2025 18:47:40 UTC
 <!--END_SECTION:waka-->

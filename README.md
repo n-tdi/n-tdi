@@ -13,67 +13,26 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 290.5 kB Used in GitHub's Storage 
+> 📦 290.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 172 Public Repositories 
  > 
-> 🔑 33 Private Repositories 
+> 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                805 commits         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-🌆 Daytime                1274 commits        █████████░░░░░░░░░░░░░░░░   34.08 % 
-🌃 Evening                1559 commits        ██████████░░░░░░░░░░░░░░░   41.71 % 
-🌙 Night                  100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   558 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Tuesday                  574 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Wednesday                330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Thursday                 490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Friday                   523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 780 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Sunday                   483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Java                     84 repos            ███████████░░░░░░░░░░░░░░   45.65 % 
-HTML                     19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-C++                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Makefile                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Java                     84 repos            ███████████░░░░░░░░░░░░░░   45.41 % 
+HTML                     19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+C++                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Makefile                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
 
@@ -83,5 +42,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:54:24 UTC
+ Last Updated on 02/01/2026 18:53:34 UTC
 <!--END_SECTION:waka-->

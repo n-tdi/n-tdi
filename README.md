@@ -13,9 +13,11 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2056%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 291.5 kB Used in GitHub's Storage 
+> 📦 291.7 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2026
  > 
@@ -81,5 +83,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:01:27 UTC
+ Last Updated on 03/02/2026 19:28:17 UTC
 <!--END_SECTION:waka-->

@@ -13,36 +13,38 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2053%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 294.4 kB Used in GitHub's Storage 
+> 📦 300.5 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2026
+> 🏆 51 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 173 Public Repositories 
+> 📜 174 Public Repositories 
  > 
 > 🔑 35 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                784 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-🌆 Daytime                1231 commits        ████████░░░░░░░░░░░░░░░░░   33.57 % 
-🌃 Evening                1562 commits        ███████████░░░░░░░░░░░░░░   42.60 % 
+🌞 Morning                786 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+🌆 Daytime                1235 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌃 Evening                1563 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
 🌙 Night                  90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   557 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Tuesday                  581 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Wednesday                334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Thursday                 459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Friday                   510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Saturday                 750 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Sunday                   476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Monday                   557 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Tuesday                  581 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Wednesday                340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Thursday                 459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Friday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Saturday                 750 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Sunday                   476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 ```
 
 
@@ -73,9 +75,9 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     83 repos            ████████████░░░░░░░░░░░░░   47.70 % 
-JavaScript               18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-C++                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Java                     83 repos            ████████████░░░░░░░░░░░░░   47.43 % 
+JavaScript               18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Liquid                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
@@ -87,5 +89,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:02:50 UTC
+ Last Updated on 29/07/2026 19:55:00 UTC
 <!--END_SECTION:waka-->

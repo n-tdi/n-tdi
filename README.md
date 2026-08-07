@@ -13,13 +13,11 @@
 <!-- <a href="http://www.github.com/n-tdi"><img src="https://github-readme-stats.vercel.app/api?username=n-tdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="n-tdi's GitHub stats" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2053%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 300.9 kB Used in GitHub's Storage 
+> 📦 299.8 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2026
+> 🏆 52 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -30,9 +28,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                786 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+🌞 Morning                787 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
 🌆 Daytime                1235 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
-🌃 Evening                1563 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
+🌃 Evening                1563 commits        ███████████░░░░░░░░░░░░░░   42.53 % 
 🌙 Night                  90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -41,10 +39,10 @@
 Monday                   557 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 Tuesday                  581 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 Wednesday                340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Thursday                 459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Friday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Thursday                 460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Friday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 Saturday                 750 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Sunday                   476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Sunday                   476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 ```
 
 
@@ -89,5 +87,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/n-tdi/n-tdi/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:07:11 UTC
+ Last Updated on 07/08/2026 00:25:41 UTC
 <!--END_SECTION:waka-->
